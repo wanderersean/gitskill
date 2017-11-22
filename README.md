@@ -6,3 +6,4 @@ added by feature2
 modified by master
 nihaoshijie
 modified by feature1
+added by new branch dev
