@@ -1,6 +1,3 @@
-deleted by master
-=======
-# gitskill
 dev1 : a
 changed by feature1
 changed in feature1, added in master ,commited in feature1
@@ -17,12 +14,11 @@ a new line after master deleted the README.md by dev
 <<<<<<< HEAD
 
 this is a change by dev1
-
-=======
-o
-
-
-jajdsfl
+<<<<<<< HEAD
 
 this is a change by dev2
 dev3 debugged ok!
+=======
+this is debugged by dev1 half
+this is debugged by dev1 full
+>>>>>>> dev1
