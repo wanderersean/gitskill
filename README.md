@@ -14,3 +14,6 @@ added by dev
 
 a new line after master deleted the README.md by dev
 >>>>>>> dev
+
+this is a change by dev1
+
